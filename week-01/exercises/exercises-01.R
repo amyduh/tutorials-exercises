@@ -26,7 +26,7 @@
 # Part 1. GitHub terminology ----------------------------------------------
 
 # 1. What is the difference between clone and pull?
-#
+# hello, test
 
 
 # 2. What is the difference between commit and push?
