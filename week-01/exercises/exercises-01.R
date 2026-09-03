@@ -98,7 +98,7 @@
 
 # Answer the following question:
 #
-# One Git concept I understand better now is:
+# One Git concept I understand better now is: difference between clone and pull. Clone downloads a repository to my computer for the first time, while pull downloads new changes to a repository that is already on my computer.
 
 
 
