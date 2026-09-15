@@ -885,7 +885,7 @@ Example commit message:
 ``` text
 Complete introductory R tutorial
 ```
-
+ 
 ## Key ideas
 
 -   R code must be precise: spelling, capitalization, and punctuation matter.
